@@ -1,0 +1,14 @@
+{
+    "hello": "hola",
+    "cancel": "cancelar",
+    "continue": "continuar",
+    "save": "guardar",
+    "edit": "editar",
+    "delete": "eliminar",
+    "create": "crear",
+    "back": "volver",
+    "next": "siguiente",
+    "close": "cerrar",
+    "search": "buscar",
+    "filter": "filtrar"
+}
