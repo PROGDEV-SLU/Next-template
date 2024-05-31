@@ -10,9 +10,7 @@ Next step is link the new project with a git repository created in the github we
 
 When the git repository is created, copy the link which will be like this:
 
-```
-https://github.com/PROGDEV-SLU/<repository-name>.git
-```
+**https://github.com/PROGDEV-SLU/<repository-name>.git**
 
 Use the link copied in the next command:
 
