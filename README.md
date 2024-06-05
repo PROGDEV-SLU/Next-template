@@ -3,7 +3,7 @@
 To use this template as a new next project, use the command:
 
 ```
-npx create-react-app --example https://github.com/PROGDEV-SLU/Next-template <your-name-app>
+npx create-next-app --example https://github.com/PROGDEV-SLU/Next-template <your-name-app>
 ```
 
 Next step is link the new project with a git repository created in the github web.
